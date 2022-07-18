@@ -17,4 +17,4 @@ smtp.js 구현 참고
 
 npm install nodemailer
 
-[https://github.com/Artifriends-inc/vacationArtifriends/tree/master/server/smtp](https://github.com/Artifriends-inc/vacationArtifriends/tree/master/server/smtp)
++ readFileSync 경로 수정해서 사용하세요.
