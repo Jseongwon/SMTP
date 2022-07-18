@@ -1,0 +1,12 @@
+{
+  "host": "smtp.gmail.com",
+  "port": "587",
+  "secureConnection": false,
+  "auth": {
+    "user": "GMail ID",
+    "pass": "Set App Password"
+  },
+  "tls": {
+    "ciphers": "SSLv3"
+  }
+}
