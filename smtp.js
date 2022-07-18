@@ -85,4 +85,4 @@ export class SMTP {
 //
 // await smtp.init();
 //
-// await smtp.sendMail("mailtest1563@gmail.com");
+// await smtp.sendMail("testMailer@gmail.com");
